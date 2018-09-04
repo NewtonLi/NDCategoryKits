@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NDCategoryKits_Example' do
+  pod 'NDCategoryKits', :path => '../'
+
+  target 'NDCategoryKits_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
