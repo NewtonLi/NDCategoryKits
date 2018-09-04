@@ -1,7 +1,7 @@
 {
   "name": "NDCategoryKits",
-  "version": "0.1.0",
-  "summary": "A short description of NDCategoryKits.",
+  "version": "1.0.1",
+  "summary": "组件测试",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/NewtonLi/NDCategoryKits",
   "license": {
@@ -13,10 +13,10 @@
   },
   "source": {
     "git": "https://github.com/NewtonLi/NDCategoryKits.git",
-    "tag": "0.1.0"
+    "tag": "1.0.1"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "NDCategoryKits/Classes/**/*"
+  "source_files": "NDCategoryKits/Classes/**/*.{h,m}"
 }
