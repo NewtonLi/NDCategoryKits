@@ -1,0 +1,6 @@
+framework module Pods_NDCategoryKits_Tests {
+  umbrella header "Pods-NDCategoryKits_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module NDCategoryKits {
+  umbrella header "NDCategoryKits-umbrella.h"
+
+  export *
+  module * { export * }
+}
