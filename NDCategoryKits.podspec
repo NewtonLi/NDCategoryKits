@@ -31,10 +31,10 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '8.0'
 
   s.subspec 'mainView' do |ss|
-    ss.source_files = 'NDCategoryKits/mainView/*.{h,m}'
+    ss.source_files = 'NDCategoryKits/Classes/mainView/*.{h,m}'
   end
   s.subspec 'Router' do |ss|
-    ss.source_files = 'NDCategoryKits/Router/*.{h,m}'
+    ss.source_files = 'NDCategoryKits/Classes/Router/*.{h,m}'
   end
 
   # s.resource_bundles = {
