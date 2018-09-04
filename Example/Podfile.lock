@@ -1,5 +1,5 @@
 PODS:
-  - NDCategoryKits (1.0.1)
+  - NDCategoryKits (1.0.2)
 
 DEPENDENCIES:
   - NDCategoryKits (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  NDCategoryKits: 962174662072b2067da1acf4712bda10e6c76dfa
+  NDCategoryKits: dab4d1efff34b6661cc662d7f0df5dfde5758a84
 
 PODFILE CHECKSUM: d08c00805f0a06b96c3772e1938430bd3ad1543a
 
