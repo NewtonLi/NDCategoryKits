@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'NDCategoryKits/Classes/**/*.{c,h,hh,m,mm}'
+  s.source_files = 'NDCategoryKits/Classes/**/*.{h,m}'
   
   # s.resource_bundles = {
   #   'NDCategoryKits' => ['NDCategoryKits/Assets/*.png']
