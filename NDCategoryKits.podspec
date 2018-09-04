@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'NDCategoryKits'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
   s.summary          = '组件测试'
 
 # This description is used to generate tags and improve search results.
